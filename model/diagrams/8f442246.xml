@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="8f442246" name="Product View">
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="3d8d0159" textAlignment="2">
+    <bounds x="72" y="60" width="421" height="217"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="b8b7bf95" textAlignment="2">
+      <bounds x="24" y="48" width="168" height="55"/>
+      <archimateElement xsi:type="archimate:Product" href="../business/4c19d6a6/d69aaced.xml#d69aaced"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="fea8c829" textAlignment="2">
+      <bounds x="252" y="48" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Product" href="../business/4c19d6a6/a10ee5f7.xml#a10ee5f7"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="2cd7dc25" textAlignment="2">
+      <bounds x="24" y="132" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:BusinessService" href="../business/ddff1728/5907c183.xml#5907c183"/>
+    </children>
+    <archimateElement xsi:type="archimate:Product" href="../business/4c19d6a6/d8a4f09f.xml#d8a4f09f"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="b349ed28" textAlignment="2">
+    <bounds x="516" y="60" width="385" height="217"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="e5b0776b" textAlignment="2">
+      <bounds x="24" y="48" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Product" href="../business/4c19d6a6/1a3d7986.xml#1a3d7986"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="10ee8799" textAlignment="2">
+      <bounds x="24" y="132" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:BusinessService" href="../business/ddff1728/5440a0bc.xml#5440a0bc"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="3a54c69b" textAlignment="2">
+      <bounds x="204" y="132" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:BusinessService" href="../business/ddff1728/6aced254.xml#6aced254"/>
+    </children>
+    <archimateElement xsi:type="archimate:Product" href="../business/4c19d6a6/97222e72.xml#97222e72"/>
+  </children>
+</archimate:ArchimateDiagramModel>

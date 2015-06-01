@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssociationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="b0b66423" name="May result in">
+  <source xsi:type="archimate:BusinessObject" href="../business/439c5d60/e44e3a4e.xml#e44e3a4e"/>
+  <target xsi:type="archimate:BusinessObject" href="../business/439c5d60/581e5a46.xml#581e5a46"/>
+</archimate:AssociationRelationship>
