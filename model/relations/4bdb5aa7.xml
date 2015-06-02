@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:TriggeringRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="4bdb5aa7" name="                                       negative outcome">
+  <source xsi:type="archimate:OrJunction" href="../connectors/e03ddf94.xml#e03ddf94"/>
+  <target xsi:type="archimate:BusinessProcess" href="../business/bfa66499/26029103.xml#26029103"/>
+</archimate:TriggeringRelationship>
