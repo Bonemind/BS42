@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssociationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="e063c90e" name="Is followed up by a">
+  <source xsi:type="archimate:BusinessObject" href="../business/439c5d60/c02cb2ad.xml#c02cb2ad"/>
+  <target xsi:type="archimate:BusinessObject" href="../business/439c5d60/6aa906cd.xml#6aa906cd"/>
+</archimate:AssociationRelationship>
