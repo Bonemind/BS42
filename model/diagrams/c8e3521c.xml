@@ -30,7 +30,7 @@
     </children>
     <children xsi:type="archimate:DiagramModelArchimateObject" id="b9319e2b" targetConnections="0c376ab4">
       <bounds x="389" y="92" width="15" height="15"/>
-      <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="88083f8c" textPosition="2" source="b9319e2b" target="ee323f00">
+      <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="88083f8c" textPosition="0" source="b9319e2b" target="ee323f00">
         <relationship xsi:type="archimate:TriggeringRelationship" href="../relations/a46bc70f.xml#a46bc70f"/>
       </sourceConnections>
       <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="5b93bb54" textPosition="0" source="b9319e2b" target="0b53d157">
