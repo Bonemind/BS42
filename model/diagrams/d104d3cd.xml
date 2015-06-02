@@ -96,6 +96,7 @@
       </sourceConnections>
       <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="a156d220" source="588f5c70" target="f44688eb">
         <relationship xsi:type="archimate:AccessRelationship" href="../relations/5db152e1.xml#5db152e1"/>
+      </sourceConnections>
       <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="072bf479" source="588f5c70" target="0cdb04e7">
         <relationship xsi:type="archimate:AccessRelationship" href="../relations/43e9a7ac.xml#43e9a7ac"/>
       </sourceConnections>
@@ -131,6 +132,7 @@
   <children xsi:type="archimate:DiagramModelArchimateObject" id="f44688eb" textAlignment="2" targetConnections="40a5dfb1 a156d220">
     <bounds x="1092" y="396" width="120" height="55"/>
     <archimateElement xsi:type="archimate:Contract" href="../business/439c5d60/6b555aaa.xml#6b555aaa"/>
+  </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="0cdb04e7" textAlignment="2" targetConnections="072bf479">
     <bounds x="1092" y="396" width="120" height="55"/>
     <archimateElement xsi:type="archimate:BusinessObject" href="../business/439c5d60/7c91365e.xml#7c91365e"/>
