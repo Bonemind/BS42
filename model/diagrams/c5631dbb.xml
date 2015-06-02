@@ -20,8 +20,15 @@
     <bounds x="312" y="48" width="193" height="163"/>
     <children xsi:type="archimate:DiagramModelArchimateObject" id="30e3a7b9" textAlignment="2" targetConnections="740be67a 22167dea">
       <bounds x="36" y="60" width="120" height="55"/>
+      <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="a6da3d98" source="30e3a7b9" target="04f68c0f">
+        <relationship xsi:type="archimate:AccessRelationship" href="../relations/8f96bd0b.xml#8f96bd0b"/>
+      </sourceConnections>
       <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/f2e81758.xml#f2e81758"/>
     </children>
     <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/98031cee.xml#98031cee"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="04f68c0f" textAlignment="2" targetConnections="a6da3d98">
+    <bounds x="349" y="252" width="120" height="55"/>
+    <archimateElement xsi:type="archimate:BusinessObject" href="../business/439c5d60/e44e3a4e.xml#e44e3a4e"/>
   </children>
 </archimate:ArchimateDiagramModel>
