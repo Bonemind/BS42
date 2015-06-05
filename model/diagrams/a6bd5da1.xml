@@ -8,11 +8,11 @@
     <archimateElement xsi:type="archimate:BusinessEvent" href="../business/2cec77fb/5d61b3f5.xml#5d61b3f5"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="c6169f62" textAlignment="2" targetConnections="6d3490d5">
-    <bounds x="852" y="183" width="120" height="55"/>
+    <bounds x="744" y="183" width="120" height="55"/>
     <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/830ca900.xml#830ca900"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="0b1d69d2" textAlignment="2">
-    <bounds x="180" y="12" width="636" height="397"/>
+    <bounds x="180" y="12" width="505" height="397"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="707a8aaf" source="0b1d69d2" target="1b9beecb">
       <relationship xsi:type="archimate:CompositionRelationship" href="../relations/f27e8392.xml#f27e8392"/>
     </sourceConnections>

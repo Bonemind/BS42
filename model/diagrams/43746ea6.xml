@@ -115,6 +115,6 @@
     <bounds x="373" y="348" width="142" height="53"/>
   </children>
   <children xsi:type="archimate:DiagramModelNote" id="e815fe08" textAlignment="1" content="Might miss relations&#xD;&#xA;">
-    <bounds x="31" y="60" width="130" height="26"/>
+    <bounds x="31" y="66" width="130" height="26"/>
   </children>
 </archimate:ArchimateDiagramModel>
