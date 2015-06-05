@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:UsedByRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="4be369bd" documentation="The amount of money a customer has to pay for a sales order&#xD;&#xA;Basic customer information from the database">
+  <source xsi:type="archimate:ApplicationComponent" href="../application/1fc67c25.xml#1fc67c25"/>
+  <target xsi:type="archimate:ApplicationComponent" href="../application/21ce74e7.xml#21ce74e7"/>
+</archimate:UsedByRelationship>
