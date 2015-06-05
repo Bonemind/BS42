@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="c2d11341" name="Organization View">
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="c2d11341" name="Organization view">
   <children xsi:type="archimate:DiagramModelArchimateObject" id="2167ca85" textAlignment="2" targetConnections="7a6d19ee">
     <bounds x="120" y="156" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="fce19683" source="2167ca85" target="ccd89d3c">

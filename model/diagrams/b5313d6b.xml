@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="b5313d6b" name="Application usage view: Lead management">
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="5ab99757" textAlignment="2">
+    <bounds x="52" y="74" width="185" height="55"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="92781f89" source="5ab99757" target="d86810bf">
+      <bendpoints startX="120" startY="-5" endX="-168" endY="-39"/>
+      <relationship xsi:type="archimate:TriggeringRelationship" href="../relations/e1afb36d.xml#e1afb36d"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:BusinessEvent" href="../business/2cec77fb/4eebdeca.xml#4eebdeca"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="281c5ce2" textAlignment="2">
+    <bounds x="52" y="144" width="185" height="55"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="61bab916" source="281c5ce2" target="d86810bf">
+      <bendpoints startX="120" startY="-3" endX="-168" endY="33"/>
+      <relationship xsi:type="archimate:TriggeringRelationship" href="../relations/2a2196eb.xml#2a2196eb"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:BusinessEvent" href="../business/2cec77fb/9147d5df.xml#9147d5df"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="d0bc67e1" textAlignment="2">
+    <bounds x="312" y="48" width="193" height="163"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="d86810bf" textAlignment="2" targetConnections="92781f89 0672c36f 61bab916">
+      <bounds x="36" y="60" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/f2e81758.xml#f2e81758"/>
+    </children>
+    <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/98031cee.xml#98031cee"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="0234160b" textAlignment="2">
+    <bounds x="349" y="252" width="120" height="55"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="0672c36f" source="0234160b" target="d86810bf">
+      <relationship xsi:type="archimate:UsedByRelationship" href="../relations/de092944.xml#de092944"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:ApplicationComponent" href="../application/b7f12c88.xml#b7f12c88"/>
+  </children>
+</archimate:ArchimateDiagramModel>
