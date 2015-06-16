@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="6bee0452" name="Architecture view">
-  <children xsi:type="archimate:DiagramModelNote" id="619c4ed0" textAlignment="1" content="All Systems are installed on MS Windows platforms">
-    <bounds x="24" y="24" width="185" height="80"/>
-  </children>
-</archimate:ArchimateDiagramModel>

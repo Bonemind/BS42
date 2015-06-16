@@ -84,7 +84,7 @@
     <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/3ed0097e.xml#3ed0097e"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="4774ce15" textAlignment="2">
-    <bounds x="708" y="516" width="120" height="55"/>
+    <bounds x="708" y="408" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="6814e136" source="4774ce15" target="4c7728b4">
       <bendpoints startX="-444" startY="-27" endX="48" endY="345"/>
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/ac02a7c9.xml#ac02a7c9"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="82f8b923" name="Application usage view: Offering after sales and new build parts">
   <children xsi:type="archimate:DiagramModelArchimateObject" id="a4ad3604" textAlignment="2">
-    <bounds x="300" y="192" width="1585" height="301"/>
+    <bounds x="180" y="108" width="1585" height="301"/>
     <children xsi:type="archimate:DiagramModelArchimateObject" id="5141504c" textAlignment="2" targetConnections="7341b93c">
       <bounds x="48" y="108" width="120" height="55"/>
       <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="016aeca7" source="5141504c" target="fa62e7d2">
@@ -114,28 +114,28 @@
     <archimateElement xsi:type="archimate:BusinessProcess" href="../business/bfa66499/f3e80c6a.xml#f3e80c6a"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="53a0faf5" textAlignment="2">
-    <bounds x="132" y="300" width="120" height="55"/>
+    <bounds x="12" y="216" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="7341b93c" source="53a0faf5" target="5141504c">
       <relationship xsi:type="archimate:TriggeringRelationship" href="../relations/e448fdcf.xml#e448fdcf"/>
     </sourceConnections>
     <archimateElement xsi:type="archimate:BusinessEvent" href="../business/2cec77fb/2a6277ca.xml#2a6277ca"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="33a9d48b" textAlignment="2">
-    <bounds x="742" y="631" width="120" height="55"/>
+    <bounds x="624" y="450" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="e766ba3a" source="33a9d48b" target="bdf3d510">
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/9b527941.xml#9b527941"/>
     </sourceConnections>
     <archimateElement xsi:type="archimate:ApplicationComponent" href="../application/4a174323.xml#4a174323"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="e5caab63" textAlignment="2">
-    <bounds x="1765" y="588" width="120" height="55"/>
+    <bounds x="1632" y="444" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="3a054013" source="e5caab63" target="b752c6ae">
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/fcb4ca4e.xml#fcb4ca4e"/>
     </sourceConnections>
     <archimateElement xsi:type="archimate:ApplicationComponent" href="../application/443ed90a.xml#443ed90a"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="1fe8bd04" textAlignment="2">
-    <bounds x="576" y="84" width="120" height="55"/>
+    <bounds x="456" y="24" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="b5ba6881" source="1fe8bd04" target="a6a79a9b">
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/7ab13f59.xml#7ab13f59"/>
     </sourceConnections>

@@ -94,16 +94,16 @@
     <archimateElement xsi:type="archimate:BusinessEvent" href="../business/2cec77fb/e4fb876c.xml#e4fb876c"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="61436759" textAlignment="2">
-    <bounds x="813" y="507" width="120" height="55"/>
+    <bounds x="816" y="372" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="2e77759c" source="61436759" target="d732270f">
-      <bendpoints startX="-297" startY="-18" endX="-25" endY="273"/>
+      <bendpoints startX="-300" startY="-3" endX="-25" endY="153"/>
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/986b190c.xml#986b190c"/>
     </sourceConnections>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="e5c7861c" source="61436759" target="779710c5">
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/9b527941.xml#9b527941"/>
     </sourceConnections>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="8ac4d13c" source="61436759" target="b2174cbb">
-      <bendpoints startX="495" startY="-6" endX="36" endY="405"/>
+      <bendpoints startX="492" startY="-3" endX="36" endY="273"/>
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/37569418.xml#37569418"/>
     </sourceConnections>
     <archimateElement xsi:type="archimate:ApplicationComponent" href="../application/4a174323.xml#4a174323"/>

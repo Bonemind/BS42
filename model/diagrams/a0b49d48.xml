@@ -101,7 +101,7 @@
     <archimateElement xsi:type="archimate:BusinessEvent" href="../business/2cec77fb/2a6277ca.xml#2a6277ca"/>
   </children>
   <children xsi:type="archimate:DiagramModelArchimateObject" id="6e323765" textAlignment="2">
-    <bounds x="1344" y="516" width="120" height="55"/>
+    <bounds x="1356" y="408" width="120" height="55"/>
     <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="e71cd1e4" source="6e323765" target="d47787c9">
       <relationship xsi:type="archimate:UsedByRelationship" href="../relations/fcb4ca4e.xml#fcb4ca4e"/>
     </sourceConnections>
